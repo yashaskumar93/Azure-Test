@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 03 Nov 2018 08:10:27 at http://thewebmax.com/conrezex/wide/index-2.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://thewebmax.com/conrezex/wide/index-2.html -O1 "C:\My Web Sites\surecruit 3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:22:31	Error: 	"Not Found" (404) at link thewebmax.com/conrezex/wide/blog-single.html (from thewebmax.com/conrezex/wide/index-2.html)
+08:22:31	Error: 	"Not Found" (404) at link thewebmax.com/conrezex/wide/services.html (from thewebmax.com/conrezex/wide/index-2.html)
+08:22:33	Error: 	"Not Found" (404) at link thewebmax.com/conrezex/wide/css/owl.video.play.png (from thewebmax.com/conrezex/wide/css/owl.carousel.min.css)
+08:22:33	Error: 	"Not Found" (404) at link thewebmax.com/conrezex/wide/images/footer-strip.png (from thewebmax.com/conrezex/wide/css/style.css)
+08:22:33	Error: 	"Not Found" (404) at link thewebmax.com/conrezex/wide/images/our-services/crane-left.jpg (from thewebmax.com/conrezex/wide/css/style.css)
+08:22:33	Error: 	"Not Found" (404) at link thewebmax.com/conrezex/wide/images/main-page-pic/btn-wrap-bg-dark.jpg (from thewebmax.com/conrezex/wide/css/style.css)
+08:22:33	Error: 	"Not Found" (404) at link thewebmax.com/conrezex/wide/images/background/scale-top.png (from thewebmax.com/conrezex/wide/css/style.css)
+08:22:33	Error: 	"Not Found" (404) at link thewebmax.com/conrezex/wide/images/background/scale-bottom.png (from thewebmax.com/conrezex/wide/css/style.css)
+08:22:33	Warning: 	File not parsed, looks like binary: thewebmax.com/conrezex/wide/plugins/revolution/revolution/css/openhand.cur
+08:22:33	Warning: 	File not parsed, looks like binary: thewebmax.com/conrezex/wide/plugins/revolution/revolution/css/closedhand.cur
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 24 seconds : 794 links scanned, 785 files written (47996009 bytes overall) [16831825 bytes received at 22623 bytes/sec], 35866655 bytes transferred using HTTP compression in 581 files, ratio 12%, 6.1 requests per connection
+(8 errors, 2 warnings, 0 messages)
